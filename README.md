@@ -33,7 +33,7 @@ tailwind.
 ## 🌐 Preview
 
 <h1 align="center">
-    <img src="github/video_teste.gif" />
+    <img src="github/video_postagem.gif" />
 </h1>
 
 ## 🚀 Tecnologias

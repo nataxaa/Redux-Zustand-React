@@ -25,7 +25,7 @@
 
 ## 💻 Projeto
 
-Projeto feito em ReactJS com TypeScript. Aplicação de player dinâmico que foi feita com redux toolkit mas no final da aplicação foi para zustand. A estização é realizada com 
+Projeto feito em ReactJS com TypeScript. Aplicação de player dinâmico que foi feita com redux toolkit mas no final da aplicação foi para zustand. A estilização é realizada com 
 tailwind.
 
 <br />
